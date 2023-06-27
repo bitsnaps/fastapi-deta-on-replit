@@ -1,0 +1,4 @@
+run = "fastapi app"
+
+[nix]
+channel = "stable-22_11"
